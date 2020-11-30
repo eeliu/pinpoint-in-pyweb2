@@ -1,5 +1,9 @@
 ## web2py
 
+### Download pinpoint-py-plugins
+[pinpoint-py-plugins](https://github.com/pinpoint-apm/pinpoint-c-agent/releases/download/v0.4.0/pinpoint-py-v0.4.0.zip)
+
+
 ### Steps
 1. copy pinpoint
 2. enable pinpoint middleware
